@@ -30,13 +30,14 @@ Cloud & DevOps : ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for
 
 Une plateforme RPG narrative interactive, où les joueurs vivent des histoires générées par IA grâce au Deep Learning & NLP.
 
-🔗 Repo
+Front-end : [🔗 Repo](https://github.com/Bastien-OC20/narra)
+Back-end : [🔗 Repo](https://github.com/BahriAhmed/NarraRealms)
 
 ## 🏥 Plateforme médicale GTA RP
 
 Une application web pour le serveur ATRUM RP, permettant aux civils, médecins et administrateurs de gérer les rendez-vous, stocks et journaux efficacement.
 
-🔗 Repo
+[🔗 Repo](https://github.com/dragent/Lsms_Atrium)
 
 ---
 
