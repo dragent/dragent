@@ -58,4 +58,4 @@ Une application web pour le serveur ATRUM RP, permettant aux civils, médecins e
 
 📍 LinkedIn : [Alexis Cau](https://www.linkedin.com/in/alexis-cau/)
 📍 GitHub : [Dragent](https://github.com/dragent)
-📍 Portfolio : dragent.fr
+📍 Portfolio : [Dragent](https://dragent.fr)
