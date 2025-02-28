@@ -34,7 +34,7 @@ Je suis un Développeur IA & Analyste de Données passionné, actuellement en fo
 Une plateforme RPG narrative interactive, où les joueurs vivent des histoires générées par IA grâce au Deep Learning & NLP.
 
 Front-end : [🔗 Repo](https://github.com/Bastien-OC20/narra) </br>
-Back-end : [🔗 Repo](https://github.com/BahriAhmed/NarraRealms)
+Back-end : [🔗 Repo](https://github.com/BahriAhmed/NarraRealms) ( en cours de développement ) 
 
 ## 🏥 Plateforme médicale GTA RP
 
