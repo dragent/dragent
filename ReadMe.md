@@ -27,20 +27,21 @@ Je suis un Développeur IA & Analyste de Données passionné, actuellement en fo
 ### Cloud & DevOps : 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
-# 📌 Projets phares
+📌 Projets phares
+🏥 Plateforme médicale GTA RP – LSMS_ATRIUM
+Une application web pour le serveur ATRIUM RP, permettant aux civils, médecins et administrateurs de gérer les rendez-vous, stocks et journaux efficacement.
 
-## 🎮 NarraRealms
+> Prochaine évolution : Dockerisation complète de l’environnement de développement.
 
-Une plateforme RPG narrative interactive, où les joueurs vivent des histoires générées par IA grâce au Deep Learning & NLP.
+🔗 [Repo](https://github.com/dragent/Lsms_Atrium)
 
-Front-end : [🔗 Repo](https://github.com/Bastien-OC20/narra) </br>
-Back-end : [🔗 Repo](https://github.com/BahriAhmed/NarraRealms) ( en cours de développement ) 
+🤠 Gestion de bureau RDR2 – Projet Valentine (en cours)
+Une plateforme immersive en cours de développement pour le rôle de shérif sur Red Dead Redemption 2 :
+gestion des arrestations, inventaires, formations, grades et bureaux via un back-end Symfony structuré.
 
-## 🏥 Plateforme médicale GTA RP
+> Environnement Dockerisé | Gestion fine des rôles | Base de données relationnelle optimisée
 
-Une application web pour le serveur ATRUM RP, permettant aux civils, médecins et administrateurs de gérer les rendez-vous, stocks et journaux efficacement.
-
-[🔗 Repo](https://github.com/dragent/Lsms_Atrium)
+🔗 [Repo](https://github.com/dragent/Valentine-Office)
 
 ---
 
