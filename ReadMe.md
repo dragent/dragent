@@ -27,15 +27,16 @@ Je suis un Développeur IA & Analyste de Données passionné, actuellement en fo
 ### Cloud & DevOps : 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
-📌 Projets phares
-🏥 Plateforme médicale GTA RP – LSMS_ATRIUM
+---
+## 📌 Projets phares
+### 🏥 Plateforme médicale GTA RP – LSMS_ATRIUM
 Une application web pour le serveur ATRIUM RP, permettant aux civils, médecins et administrateurs de gérer les rendez-vous, stocks et journaux efficacement.
 
 > Prochaine évolution : Dockerisation complète de l’environnement de développement.
 
 🔗 [Repo](https://github.com/dragent/Lsms_Atrium)
 
-🤠 Gestion de bureau RDR2 – Projet Valentine (en cours)
+### 🤠 Gestion de bureau RDR2 – Projet Valentine (en cours)
 Une plateforme immersive en cours de développement pour le rôle de shérif sur Red Dead Redemption 2 :
 gestion des arrestations, inventaires, formations, grades et bureaux via un back-end Symfony structuré.
 
